@@ -2,6 +2,7 @@
 ![](nxtlogo.jpg)
 
 - ### [NXT 341期](NXT/2019/NXT-341/readme.md)
+- ### [NXT 342期](NXT/2019/NXT-342/readme.md)
 
 # WWE NXT UK
 ![](nxtuklogo.jpg)
