@@ -1,4 +1,4 @@
-# NXT UK 30期
+# NXT UK 31期
 
 ![](head.jpg)
 

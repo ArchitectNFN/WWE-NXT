@@ -7,6 +7,7 @@
 ![](nxtuklogo.jpg)
 
 - ### [NXT UK 31期](NXT-UK/2019/NXT-UK-31/readme.md)
+- ### [NXT UK 32期](NXT-UK/2019/NXT-UK-32/readme.md)
 
 # WWE NXT TAKEOVER
 ![](takeover.jpg)
