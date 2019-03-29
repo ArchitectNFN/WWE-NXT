@@ -1,4 +1,4 @@
-# NXT UK 33期
+# NXT UK 34期
 
 ![](head.jpg)
 
