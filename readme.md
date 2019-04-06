@@ -23,6 +23,7 @@
 # WWE NXT TAKEOVER
 ![](takeover.jpg)
 
+- ### [NXT TakeOver:New York](NXT-TakeOver/2019/TakeOver-NewYork/readme.md)
 - ### [NXT TakeOver:Phoenix](NXT-TakeOver/2019/TakeOver-Phoenix/readme.md)
 - ### [NXT UK TakeOver:Blackpool](NXT-TakeOver/2019/TakeOver-Blackpool/readme.md)
 - ### [NXT TakeOver:WarGames II](NXT-TakeOver/2018/TakeOver-WarGamesII/readme.md)
